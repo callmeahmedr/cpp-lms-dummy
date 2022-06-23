@@ -1,22 +1,25 @@
-#Learning Management System Using C++
+**Learning Management System Using C++**
 
 Learning Management System is built on two main modules. The first module is the Admin side which deals with the administration side of the system like creating and managing students. From the admin side, you also have some other management features which will be discussed in the “Admin Module” clause later on.
 
 The second module of the system is the Student side, which mainly deals with viewing the students’ personal details and how they interact with the course(s) he/she had joined.
 
-a.	Implementation of Object-Oriented Programming
+**Implementation of Object-Oriented Programming**
 We are using the concept of classes along with the concept of file handling in CPP to perform the data management for our systems and using it as our objects to store and access our data when it’s required to be. Functions used in classes help in the reusability of a program that is easy for users to access different tasks.
+
 This makes the Management and especially debugging easy for both the developer and a newbie who’s using our system for the first time. We have used a couple of different libraries in order to perform certain tasks.
-b.	External Libraries
+
+**External Libraries**
 For this specific Learning Management System, we are using a total of 4 external Libraries to perform various tasks. Each library used is briefly explained below:
-•	#include <fstream>
+- #include <fstream>
 We are using the file-handling library which is referred to as “fstream” to store and access our student’s data like their credentials and also the admin side credentials as well. 
-•	#include <iomanip>
+- #include <iomanip>
 We are using the “iomanip” library to manipulate the output of our LMS and as we are dealing with flags management we use it to perform just functions and implement OOP.
-•	#include <stdlib.h>
+- #include <stdlib.h>
 We are also using the standard library of C++ to perform basic functions like CLS (Clear Screen) to re-modernize the work flow of the LMS.
 All of these libraries are used with keeping the Object Orientated Side of our system. 
-c.	File Structure 
+
+**File Structure** 
 Here’s a list of the file structure of our Learning Management System
 -	Main.cpp (Contains all of the C++ code)
 -	Users.txt (Stores Admin Credentials)
