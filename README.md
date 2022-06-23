@@ -1,6 +1,7 @@
-Introduction
 Learning Management System is built on two main modules. The first module is the Admin side which deals with the administration side of the system like creating and managing students. From the admin side, you also have some other management features which will be discussed in the “Admin Module” clause later on.
+
 The second module of the system is the Student side, which mainly deals with viewing the students’ personal details and how they interact with the course(s) he/she had joined.
+
 a.	Implementation of Object-Oriented Programming
 We are using the concept of classes along with the concept of file handling in CPP to perform the data management for our systems and using it as our objects to store and access our data when it’s required to be. Functions used in classes help in the reusability of a program that is easy for users to access different tasks.
 This makes the Management and especially debugging easy for both the developer and a newbie who’s using our system for the first time. We have used a couple of different libraries in order to perform certain tasks.
