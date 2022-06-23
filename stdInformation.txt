@@ -1,0 +1,6 @@
+f2021266189,Ahmed
+Phy,Maths
+f2021266188,javeria
+
+f2021266012,khuzaima
+Phy,OOP
